@@ -4,7 +4,7 @@ This is [part one](https://medium.com/@xianli_74374/how-to-seamlessly-integrate-
 
 This is the one that is open to the public, [part one](https://medium.com/@xianli_74374/how-to-seamlessly-integrate-mdx-in-a-remix-based-project-part-one-c4ff49a20381?sk=67db67ba12b1d3c10386863030ded781) and [part two](https://medium.com/@xianli_74374/how-to-seamlessly-integrate-mdx-in-a-remix-based-project-part-two-116d9540b514?sk=1f6ebcdd3c830adaa1886bd13b971812).<br/>
 
-### If you find these articles helpful, please consider supporting my work—I’d greatly appreciate it!
+<mark> ```If you find these articles helpful, please consider supporting my work—I’d greatly appreciate it!```</mark>
 
 ## Development
 
