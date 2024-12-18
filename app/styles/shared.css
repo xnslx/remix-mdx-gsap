@@ -13,3 +13,7 @@
 img {
   max-height: 400px;
 }
+
+mark {
+  background-color: rgb(118, 213, 244);
+}
